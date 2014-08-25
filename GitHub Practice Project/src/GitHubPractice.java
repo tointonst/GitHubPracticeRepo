@@ -7,6 +7,8 @@ public class GitHubPractice
 		
 		//Add a line about modifying it at school, then upload it
 		// back to GitHub.
+		
+		//edited from school fashdjklfbvgajkxgklajscdnajbsipd
 
 		//Open this at home and add a line about modifying it there.
 		//Update it on GitHub.
